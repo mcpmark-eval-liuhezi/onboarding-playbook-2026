@@ -1,2 +1,5 @@
-# onboarding-playbook-2026
-Onboarding checklist and contributing guide for new lab members
+## New member onboarding
+
+- [ ] Draft the contributing guide
+- [ ] Record setup decisions
+- [ ] Final walkthrough with the team
